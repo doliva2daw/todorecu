@@ -1,0 +1,21 @@
+{
+    "conf_dev":{
+        "driver":"mysql",
+        "dbhost":"127.0.0.1",
+        "dbname":"todo",
+        "dbuser":"root",
+        "dbpass":"linuxlinux",
+        "web":"/",
+        "root":"/"
+    },
+    "conf_pro":{
+        "driver":"mysql",
+        "dbhost":"localhost",
+        "dbname":"OlDi_todo",
+        "dbuser":"OlDi_root",
+        "dbpass":"linuxlinux",
+        "web":"/remote_path/",
+        "root":"/"
+
+    }
+}
